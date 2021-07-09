@@ -3,4 +3,7 @@ x="string"
 print(x.lower())
 print(x.upper())
 print(x.strip())
-print(x.captalize())
+print(x.capitalize())
+print(x.replace('g','gs'))
+print(x.rstrip())
+print(x.lstrip())
